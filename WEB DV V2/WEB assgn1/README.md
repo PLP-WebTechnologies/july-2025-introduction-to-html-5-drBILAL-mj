@@ -1,51 +1,35 @@
-# DBA Academy Website
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jecSxI3G)
+# 📘 Assignment: HTML5 + Accessibility & SEO Basics
 
-This is a simple HTML5 website for **drBILAL Accountech Academy**, an institution focused on providing education in accounting technology and software.
+## Overview
 
-## Features
+This assignment will help you solidify your understanding of modern HTML5 structure while applying foundational concepts of web accessibility and search engine optimization (SEO). You’ll create a simple, semantically correct web page that prioritizes both human and machine readability—two pillars of great web design.
 
-- **About Us** section describing the academy's mission and team.
-- **Our Services** section listing the main offerings, including:
-  - Mastering computer applications
-  - Employing accounting basics
-  - Training in computer software essentials
-  - Training on Tally ERP 9
-- **Contact Us** section with phone and email information.
-- **Latest News** article for updates and social media links.
-- Collaborator link to the College of Business Education.
-- Responsive and semantic HTML5 structure.
-- Includes an image (`tally.png`) representing accessible accounting software.
+## Objective
 
-## Getting Started
+Build a basic web page using HTML5 semantic tags, applying accessibility best practices and beginner-friendly SEO principles. Your final output should demonstrate a well-structured layout that supports screen readers and is optimized for discoverability.
 
-1. **Clone or Download the Repository**
-   ```powershell
-   git clone <https://github.com/drBILAL-mj/index.html.git>
-   ```
+## Guidelines
 
+Use only HTML5. No CSS or JavaScript is required at this stage. Focus on using meaningful semantic elements to structure your page. Avoid using `<div>` or `<span>` unless absolutely necessary. Ensure your page has clearly defined sections such as a header, navigation, main content, and a footer.
 
-2. **Open the Website**
-   - Open `index.html` in your web browser.
+Incorporate accessibility by using proper HTML5 landmarks and attributes that improve navigation for assistive technologies. Your HTML should reflect thoughtful planning of hierarchy and readability, both for users and search engines.
 
-3. **Image Requirement**
-   - Ensure `tally.png` is present in the same directory as `index.html` for the image to display correctly.
+For SEO, emphasize the use of heading tags in the correct order, provide descriptive text, and ensure your content is both human-readable and crawler-friendly. Consider how a search engine would interpret your page in terms of structure and content clarity.
 
-## File Structure
+## Deliverables
 
-```
-index.html
-tally.png
-```
+A single HTML file named `index.html`. It should include:
 
-## Author
+* A semantic structure using appropriate HTML5 elements.
+* Clear headings in a logical hierarchy.
+* Accessibility enhancements using proper tags and attributes.
+* SEO-friendly metadata and content.
 
-- drBILAL M JUMA
+## Tips
 
-## License
+* Use HTML5 semantic tags appropriately.
+* Organize content with accessibility in mind.
+* Apply basic on-page SEO techniques.
+* Follow clean, readable HTML code structure.
 
-This project is for educational purposes.
-
----
-
-*Thanks for visiting our page © 2025*
-````
